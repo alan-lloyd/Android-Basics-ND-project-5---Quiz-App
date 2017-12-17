@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App - a metal detecting primer</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="question1_yes_radio_button">yes</string>
+    <string name="question1_no_radio_button">no</string>
+    <string name="question1_text">Can you detect UK land\n you don\'t own without\n landowner permission?</string>
+    <string name="question1_right_answer_toast_msg">You\'re right - as all land in UK is owned, you need permission first, unless you own the land</string>
+    <string name="question2_text">When buying a detector should you consider:</string>
+    <string name="question1_wrong_answer_toast_msg">As all land in UK is owned, you need permission first, unless you own the land</string>
+    <string name="buying_additional_items">cost of buying other items e.g. carry case, short spade, pointing device, finds pouch </string>
+    <string name="beach_detecting">if you plan to detect on beaches - where only certain detectors can cope with salt water conductivity</string>
+    <string name="price_of_detector">how much you can pay for a detector device</string>
+    <string name="question2_right_answer_toast_msg1">you\'ll need additional items (e.g. good walking boots), and consider travel costs too</string>
+    <string name="question2_right_answer_toast_msg2">Some detectors are \'beach\' detectors, others won\'t work on them. More expensive ones typically work well on beaches.</string>
+    <string name="question2_right_answer_toast_msg3">Do your product research. Joining some Facebook UK detector Groups provides good advice, information and dig invites</string>
+    <string name="question3_text">Do you need to pay for insurance to metal detect?</string>
+    <string name="question3_yes_radio_button">yes</string>
+    <string name="question3_no_radio_button">no</string>
+    <string name="question3_right_answer_toast_msg">Its very wise to get insurance - this is easily done via National Council for Metal Detecting membership, which requires compliance with their sensible rules. Individual membership is only £8</string>
+    <string name="question3_wrong_answer_toast_msg">Insurance is important, for all kinds of unintentional damage caused, to people, property, farm animals etc. National Council of Metal Detecting offer this quite cheaply.</string>
+    <string name="score_button">Your Score</string>
+    <string name="score_button_toast_msg1">You scored  </string>
+    <string name="question4_text_input">When you find gold, silver, or a hoard, can you just sell or keep it?</string>
+    <string name="type_yes_or_no">answer \'yes\' or \'no\' here</string>
+    <string name="question4_answer_toast_msg">You should consider any agreement with landowner.\n Also report to your local Finds Liaison Officer - \(Treasure Act 1996 requires this\)</string>
+    <string name="question_four_button">Click for answer</string>
+    <string name="score_button_toast_msg2"> out of 6.\n We hope this App has been useful.\n Good luck metal detecting!</string>
+</resources>
